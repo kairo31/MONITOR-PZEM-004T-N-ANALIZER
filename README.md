@@ -1,1 +1,6 @@
 # MONITOR-PZEM-004T-N-ANALIZER
+
+isi
+1. coding pzem-004t
+2. SARIMAX REFERENCE
+3. SARIMAX uji awal
